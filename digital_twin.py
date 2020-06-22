@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 finished = False
 lock = threading.Lock()
 
-mqtt_server = "85.214.232.187"
+mqtt_server = "35.233.1.50"
 
 old_pwm      = 0.0
 current_pwm  = 0.0
@@ -42,7 +42,8 @@ def signal_handler(signal, frame):
 # Callback executed when pid_controller publishes PWM value
 def on_actuator_pwm(message):
     global lock, current_pwm
-    if (lock.acquire(True)):
+    # if (lock.acquire(True)):
+    if (lock.acquire(False)):
         try:
             current_pwm = json.loads(message)["pwm_value"]
         except:

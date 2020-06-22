@@ -19,7 +19,7 @@ finished = False
 
 plotter = None
 
-mqtt_server = "85.214.232.187"
+mqtt_server = "35.233.1.50"
 
 current_pwm  = 0.0
 current_temp = 0.0

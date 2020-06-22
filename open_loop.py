@@ -21,7 +21,7 @@ lock = threading.Lock()
 current_pwm = 0
 delta_time  = 0.1
 
-mqtt_server = "85.214.232.187"
+mqtt_server = "35.233.1.50"
 
 user_name = "usuario"
 mqtt_topic_pwm = user_name + "/" + "actuator_pwm"

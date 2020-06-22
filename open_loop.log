@@ -1,0 +1,51 @@
+INFO:root:__init__
+INFO:root:setup
+INFO:root:start
+INFO:root:connected
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 45}
+ERROR:root:get_user_input Exception
+INFO:root:stop
