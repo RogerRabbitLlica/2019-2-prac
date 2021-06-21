@@ -12,40 +12,127 @@ INFO:root:send message: {"pwm_value": 0}
 INFO:root:send message: {"pwm_value": 0}
 INFO:root:send message: {"pwm_value": 0}
 INFO:root:send message: {"pwm_value": 0}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
-INFO:root:send message: {"pwm_value": 45}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 10}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 100}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
+INFO:root:send message: {"pwm_value": 0}
 ERROR:root:get_user_input Exception
+ERROR:root:signal_handler
 INFO:root:stop
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler

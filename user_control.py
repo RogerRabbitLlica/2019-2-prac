@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 finished = False
 lock = threading.Lock()
 
-mqtt_server = "35.233.1.50"
+mqtt_server = "35.205.249.237"
 
 target_temp  = 0.0
 delta_time   = 0.1

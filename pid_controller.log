@@ -1,0 +1,81 @@
+INFO:root:__init__
+INFO:root:setup
+INFO:root:start
+INFO:root:connected
+INFO:root:subscribed to topic=usuario/actuator_control
+INFO:root:subscribed to topic=usuario/sensor_value
+INFO:root:send message: {"pwm_value": 0.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+INFO:root:send message: {"pwm_value": 100.0}
+ERROR:root:signal_handler
+INFO:root:stop
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler
+ERROR:root:signal_handler

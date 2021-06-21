@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 finished = False
 lock = threading.Lock()
 
-mqtt_server = "35.233.1.50"
+mqtt_server = "35.205.249.237"
 
 old_pwm      = 0.0
 current_pwm  = 0.0

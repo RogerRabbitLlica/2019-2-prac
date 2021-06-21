@@ -1,0 +1,3899 @@
+INFO:root:__init__
+INFO:root:setup
+INFO:root:start
+INFO:root:connected
+INFO:root:subscribed to topic=usuario/sensor_value
+INFO:root:send message: {"temperature": 50.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 25.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+ERROR:root:main loop
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 25.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
+INFO:root:send message: {"temperature": 75.0}
